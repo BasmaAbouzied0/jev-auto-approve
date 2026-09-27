@@ -76,6 +76,8 @@ Permission prompts are a yes/no decision on a short string. That's exactly what 
 
 [jev-secret-guard](https://github.com/BasmaAbouzied0/jev-secret-guard): this repo approves your safe commands; that one stops your unsafe output.
 
+Built with Claude Code (AI-assisted). The tests and the calibration numbers above were run against real Jev.
+
 ## License
 
 MIT
