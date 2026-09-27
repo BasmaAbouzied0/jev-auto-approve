@@ -72,6 +72,10 @@ Runs offline with a fake Jev. No key needed.
 
 Permission prompts are a yes/no decision on a short string. That's exactly what Jev is built for: a calibrated probability you can put a threshold on, instead of an LLM's "looks fine". Standard library only, one file, no dependencies.
 
+## Pairs with
+
+[jev-secret-guard](https://github.com/BasmaAbouzied0/jev-secret-guard): this repo approves your safe commands; that one stops your unsafe output.
+
 ## License
 
 MIT
